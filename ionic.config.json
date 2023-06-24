@@ -1,0 +1,7 @@
+{
+  "name": "Jr-Dev",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
